@@ -7,8 +7,8 @@
 | CPU                     | Octa-core 2.0 GHz Cortex-A53                  |
 | Chipset                 | Qualcomm MSM8953 Snapdragon 625               |
 | GPU                     | Adreno 506                            	  |
-| Memory                  | 3/4GB RAM                             	  |
-| Shipped Android Version | Android 6.0.1 (Marshmallow)                   |
+| Memory                  | 4GB RAM                             	  |
+| Shipped Android Version | Android 9.0 (Pie)                   |
 | Storage                 | 32 GB                                 	  |
 | MicroSD                 | Up to 128GB                           	  |
 | Battery                 | 5100 mAh                              	  |
