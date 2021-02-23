@@ -14,9 +14,9 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Lenovo parts</string>
-    <string name="advanced_settings">Lenovo parts</string>
-    <string name="advanced_settings_summary">Gelişmiş seçenekler</string> 
+    <string name="app_name">Lenovo ayarları</string>
+    <string name="advanced_settings">Lenovo ayarları</string>
+    <string name="advanced_settings_summary">Cihaza özel seçenekler</string> 
     <string name="category_system">Titreşim</string>
     <string name="vib_strength_title_head">Titreşim yoğunluğu</string>
 
